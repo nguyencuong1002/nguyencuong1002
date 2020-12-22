@@ -22,9 +22,9 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://miro.medium.com/max/3000/1*ez6AmVKmBWWM0SaFrMEIDA.png"></code> 
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
+  <code><img width="10%" src="https://cdn.iconscout.com/icon/free/png-256/webpack-2-1174981.png"></code>
+  <code><img width="10%" src="https://gitconnected.com/public/images/tutorials/svg/typescript.svg"></code>
+  <code><img width="10%" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/237/square_256/figma-1-logo.png"></code>
   <br />
   <code><img width="10%" src="https://petapixel.com/assets/uploads/2020/06/pslogo.gif"></code>
   <code><img width="10%" src="https://cdn.iconscout.com/icon/free/png-256/nodejs-2-226035.png"></code>
