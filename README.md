@@ -27,6 +27,6 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://petapixel.com/assets/uploads/2020/06/pslogo.gif"></code>
-  <code><img width="10%" src="https://10crack.com/wp-content/uploads/2019/09/Adobe-Illustrator-CC-2020-Crack-Version-Free-Download.png"></code>
-  <code><img width="10%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROW5iiV6VS9t_HJtmzmvST9doTbCcaOK3rRw&usqp=CAU"></code>
+  <code><img width="10%" src="https://cdn.iconscout.com/icon/free/png-256/nodejs-2-226035.png"></code>
+  <code><img width="10%" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-226029.png"></code>
 </p>
