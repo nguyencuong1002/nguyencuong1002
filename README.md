@@ -27,6 +27,6 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://petapixel.com/assets/uploads/2020/06/pslogo.gif"></code>
-  <code><img width="10%" src="https://cdn.iconscout.com/icon/free/png-256/nodejs-2-226035.png"></code>
-  <code><img width="10%" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-226029.png"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 </p>
