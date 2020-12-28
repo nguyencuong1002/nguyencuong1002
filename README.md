@@ -1,4 +1,4 @@
-### ⚡ Hello There ! I'm Cuong Nguyen
+### ⚡ Hèlô 😂 ! I'm Cuong Nguyen - Passionate Web Developer
 
 | ![1](https://media2.giphy.com/media/g79am6uuZJKSc/giphy.gif) | ![2](https://znews-photo.zadn.vn/Uploaded/mdf_drkydd/2016_12_18/ezgifcomcrop_1.gif) | ![3](https://media.giphy.com/media/xTiTndoDtMwXyCmd2w/giphy.gif) |
 | --- | --- | --- |
