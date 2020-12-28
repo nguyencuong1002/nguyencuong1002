@@ -1,4 +1,4 @@
-## Hèlô 😂! I'm Cuong Nguyen - Passionate Web Developer
+# Hèlô 😂! I'm Cuong Nguyen - Passionate Web Developer
 
 - Open and friendly.
 - Love to learn new things, especially things related to Fullstack and Data Science.
@@ -36,6 +36,5 @@
 </p>
 
 ## Projects for sharing
-
 
 - Something: Something
