@@ -1,7 +1,7 @@
 # Hèlô 😂! I'm Cuong Nguyen - Passionate Web Developer
 
 - Open and friendly.
-- Love to learn new things, especially things related to Fullstack and Data Science.
+- Love to learn new things, especially things related to Fullstack and Data Engineer.
 - Enjoy working with ReactJS ❤
 
 | ![1](https://media2.giphy.com/media/g79am6uuZJKSc/giphy.gif) | ![2](https://znews-photo.zadn.vn/Uploaded/mdf_drkydd/2016_12_18/ezgifcomcrop_1.gif) | ![3](https://media.giphy.com/media/xTiTndoDtMwXyCmd2w/giphy.gif) |
