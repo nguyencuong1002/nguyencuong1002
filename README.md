@@ -1,4 +1,4 @@
-# Hèlô 😂! I'm Cuong Nguyen - Passionate about Data
+# Hi 😂! I'm Cuong Nguyen - Passionate about Data
 
 - Open and friendly.
 - Love to learn new things, especially things related to Data Engineer/Data Analyst and Backend Developer.
