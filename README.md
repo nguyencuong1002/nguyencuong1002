@@ -1,4 +1,4 @@
-# Hèlô 😂! I'm Cuong Nguyen
+# Hèlô 😂! I'm Cuong Nguyen - Passionate about Data
 
 - Open and friendly.
 - Love to learn new things, especially things related to Data Engineer/Data Analyst and Backend Developer.
@@ -37,4 +37,11 @@
 
 ## Projects for sharing
 
-- Something: Something
+- Salary Developer Prediction: https://github.com/nguyencuong1002/Explorating_stackoverflow-survey
+- Big Data with Pyspark: https://github.com/nguyencuong1002/PySpark-Fundamental
+- Voice Bot: https://github.com/nguyencuong1002/Voice_Bot
+- Predicting User Click Ad: https://github.com/nguyencuong1002/Predict_User-Click-Ad
+- Basic Apache Airflow: https://github.com/nguyencuong1002/Learn-ApacheAirflow
+- SSIS Package: https://github.com/nguyencuong1002/Build-SSISPackage
+- Android Studio: https://github.com/nguyencuong1002/QuanLyNhaThuoc
+- And more: https://github.com/nguyencuong1002?tab=repositories
