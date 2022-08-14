@@ -5,11 +5,11 @@
 - Enjoy working with Python & Javascript ❤
 - Portfolio: https://cuongnguyen1002.netlify.app/
 
-| ![1](https://media2.giphy.com/media/g79am6uuZJKSc/giphy.gif) | ![2](https://znews-photo.zadn.vn/Uploaded/mdf_drkydd/2016_12_18/ezgifcomcrop_1.gif) | ![3](https://media.giphy.com/media/xTiTndoDtMwXyCmd2w/giphy.gif) |
+| ![1](<iframe src="https://giphy.com/embed/4Ev0Ari2Nd9io" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ninja-scroll-birds-4Ev0Ari2Nd9io">via GIPHY</a></p>) | ![2](https://znews-photo.zadn.vn/Uploaded/mdf_drkydd/2016_12_18/ezgifcomcrop_1.gif) | ![3](https://media.giphy.com/media/xTiTndoDtMwXyCmd2w/giphy.gif) |
 | --- | --- | --- |
 
 
-### <img src="https://media.giphy.com/media/QX81mZCxbGlqFtxqYn/giphy.gif" width="40"> How about some stats ?
+### <img src="https://media.giphy.com/media/QX81mZCxbGlqFtxqYn/giphy.gif" width="40"> How about some skills ?
 
 <p>
   <a href="https://github.com/nguyencuong1002">
