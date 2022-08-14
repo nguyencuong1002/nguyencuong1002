@@ -5,7 +5,7 @@
 - Enjoy working with Python & Javascript ❤
 - Portfolio: https://cuongnguyen1002.netlify.app/
 
-| ![1](<iframe src="https://giphy.com/embed/4Ev0Ari2Nd9io" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ninja-scroll-birds-4Ev0Ari2Nd9io">via GIPHY</a></p>) | ![2](https://znews-photo.zadn.vn/Uploaded/mdf_drkydd/2016_12_18/ezgifcomcrop_1.gif) | ![3](https://media.giphy.com/media/xTiTndoDtMwXyCmd2w/giphy.gif) |
+| ![1](https://giphy.com/embed/4Ev0Ari2Nd9io) | ![2](https://znews-photo.zadn.vn/Uploaded/mdf_drkydd/2016_12_18/ezgifcomcrop_1.gif) | ![3](https://media.giphy.com/media/xTiTndoDtMwXyCmd2w/giphy.gif) |
 | --- | --- | --- |
 
 
