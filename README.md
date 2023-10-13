@@ -1,8 +1,8 @@
 # Hi 😂! I'm Cuong Nguyen - Passionate about Data
 
 - Open and friendly.
-- Love to learn new things, especially things related to Data Engineer/Data Analyst and Backend Developer.
-- Enjoy working with Python & Javascript ❤
+- Love to learn new things, especially things related to Data Engineer & Machine Learning
+- Enjoy working with Python, PostgreSQL, PowerBI, AWS Cloud Solution
 - Portfolio: https://cuongnguyen1002.netlify.app/
 
 | ![1]() | ![2](https://znews-photo.zadn.vn/Uploaded/mdf_drkydd/2016_12_18/ezgifcomcrop_1.gif) | ![3](https://media.giphy.com/media/xTiTndoDtMwXyCmd2w/giphy.gif) |
