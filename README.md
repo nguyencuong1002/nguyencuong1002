@@ -1,4 +1,4 @@
-# Hi 😂! I'm Cuong Nguyen - Fall in love with DATA
+# Hi 😂! I'm Cuong Nguyen - fall in love with data
 
 - Open and friendly.
 - Love to learn new things, especially things related to Data Engineer & Machine Learning
