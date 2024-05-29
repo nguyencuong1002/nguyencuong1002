@@ -30,8 +30,8 @@
 
 ## Projects for sharing
 
-- Big Data with Pyspark: https://github.com/nguyencuong1002/PySpark-Fundamental
-- Salary Developer Prediction: https://github.com/nguyencuong1002/Explorating_stackoverflow-survey
-- Data Structure & algorithms C/C++: https://github.com/nguyencuong1002/DoAn_QuanLyThuVien
-- Android Studio: https://github.com/nguyencuong1002/QuanLyNhaThuoc
+- Big Data with Pyspark: https://github.com/nguyencuong1002/pyspark-fundamental
+- Salary Developer Prediction: https://github.com/nguyencuong1002/explorating_stackoverflow-survey
+- Data Structure & algorithms C/C++: https://github.com/nguyencuong1002/library-management
+- Android Studio: https://github.com/nguyencuong1002/pharmacy-management-app
 - And more: https://github.com/nguyencuong1002?tab=repositories
