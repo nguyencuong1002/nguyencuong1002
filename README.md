@@ -1,8 +1,8 @@
-# Hi 😂! I'm Cuong Nguyen - fall in love with data
+# Hi 😂! I'm Cuong Nguyen
 
 - Open and friendly.
-- Love to learn new things, especially things related to Data Engineer & Machine Learning
-- Enjoy working with Python, PostgreSQL, PowerBI, Microsoft Azure, ETL Tools
+- Love to learn new things, especially things related to Data Engineer & Deep Learning
+- Enjoy working with Python, Data Warehouse, ETL Pipeline, Microsoft Platform
 - Portfolio: https://cuongnguyen1002.netlify.app/
 
 
